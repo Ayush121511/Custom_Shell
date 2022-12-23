@@ -1,5 +1,4 @@
 all:
-	@echo 'Assignment 1:'
 	@echo 'Custom shell:'
 	gcc -o ls ls.c
 	gcc -o cat cat.c
