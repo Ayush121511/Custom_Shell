@@ -1,6 +1,4 @@
-# Ayush_2021457_OS_Assignment1
-OS Assignment: Making a shell
-
+# Linux Shell Implementation
 The shell can handle the following commands:
 1. cd : change directory
         ~ - change to home directory
